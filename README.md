@@ -14,5 +14,8 @@ add new packet to existing bundle<br>
 serve site on localhost<br>
 `bundle exec jekyll serve`
 
+serve site on localhost with drafts<br>
+`bundle exec jekyll serve --watch --drafts`
+
 ### stuff
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
