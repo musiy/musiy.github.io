@@ -11,7 +11,7 @@ install dependencies from gem file<br>
 add new packet to existing bundle<br>
 `bundle add jekyll`
 
-serve site on localhost
+serve site on localhost<br>
 `bundle exec jekyll serve`
 
 ### stuff
