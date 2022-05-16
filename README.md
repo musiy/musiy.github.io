@@ -43,5 +43,6 @@ to install jekyll gems
 `bundle install`
 
 to start jekyll engine locally
-`bundle exec jekyll serve`
+`bundle exec jekyll serve --drafts`
 
+[Jekyll docs](https://jekyllrb.com/docs/)
